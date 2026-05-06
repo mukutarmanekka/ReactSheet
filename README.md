@@ -151,3 +151,10 @@ The production output is generated in the `dist/` folder.
 ## 📄 License
 
 This project is open source and available for educational purposes.
+
+---
+
+## Author
+
+**Mukut Arman Ekka**  
+3rd Year CSE Student
